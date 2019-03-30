@@ -7,6 +7,14 @@ emulator @name-of-your-emulator //Ejecute uno de los emuladores enumerados
 *********************************************************************************
 
 
-************** ubicacion sdk por defecto ****************************
+******************** ubicacion sdk por defecto **********************************
 C:\Users\Roosevelt\AppData\Local\Android\Sdk
-*********************************************************************
+*********************************************************************************
+
+
+******************************* Comandos Flutter *********************************
+flutter run                 //corre la aplicacion en un emulador o dispositivo en modo debug
+flutter run --release       //corre la aplicacion en un dispositivo en modo de produccion (crea apk)
+flutter build apk --release //construye una apk en modo de producion
+flutter install             //instala la aplicacion en el dispositivo
+**********************************************************************************

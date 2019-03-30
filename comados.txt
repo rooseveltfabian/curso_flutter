@@ -1,0 +1,12 @@
+
+
+*************************Ejeuctar el Emuladores Android**************************
+${ANDROID_SDK}/tools/emulator 	//ubicarse en la carpeta del sdk
+emulator -list-avds		//Enumere todos sus emuladores
+emulator @name-of-your-emulator //Ejecute uno de los emuladores enumerados
+*********************************************************************************
+
+
+************** ubicacion sdk por defecto ****************************
+C:\Users\Roosevelt\AppData\Local\Android\Sdk
+*********************************************************************
